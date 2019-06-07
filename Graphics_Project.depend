@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1557054348 source:c:\users\mostafa elhariry\desktop\graphics_project\main.cpp
+	<windows.h>
+	<iostream>
+	<stdlib.h>
+	<cmath>
+	<vector>
+	<stack>
+	<fstream>
+	"menu.h"
+
+1557041505 c:\users\mostafa elhariry\desktop\graphics_project\menu.h
+
+1557026914 source:c:\users\mostafa elhariry\desktop\graphics_project\menu.rc
+	"menu.h"
+
